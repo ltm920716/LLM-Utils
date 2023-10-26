@@ -1,0 +1,11 @@
+# test version
+sse-starlette==1.6.5
+transformers==4.33.2
+uvicorn==0.23.2
+torch==2.0.1
+pydantic==2.3.0
+pydantic_core==2.6.3
+fastapi==0.103.1
+sseclient-py==1.8.0
+loguru
+openai==0.28.1
